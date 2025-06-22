@@ -99,22 +99,22 @@ npm run dev
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](client/screenshots/HomePage.png)
+![Home Page](../client/screenshots/HomePage.png)
 
 ### 📄 Job List Page
-![Job List](client/screenshots/JobList.png)
+![Job List](../client/screenshots/JobList.png)
 
 ### 📄 Post Job Page
-![ Post Job](client/screenshots/PostJob.png)
+![ Post Job](../client/screenshots/PostJob.png)
 
 ### 📄 Job Details Page
-![Job Details](client/screenshots/JobDetails.png)
+![Job Details](../client/screenshots/JobDetails.png)
 
 ### 📄 Adding a Job
-![Adding Job](client/screenshots/PostingJob.png)
+![Adding Job](../client/screenshots/PostingJob.png)
 
 ### 📄 Searching Jobs
-![Searching Job](client/screenshots/Searching.png)
+![Searching Job](../client/screenshots/Searching.png)
 
 
 ### ✨ Future Improvements
